@@ -1,4 +1,4 @@
-Hierarchical Attention Networks for Chines Sentiment Classification
+Hierarchical Attention Networks for Chinese Sentiment Classification
 ====================================================
 
 This is [HAN](http://www.aclweb.org/anthology/N16-1174) version of sentiment classification, with pre-trained [character-level embedding](https://github.com/indiejoseph/chinese-char-rnn), and used [RAN](https://github.com/indiejoseph/tf-ran-cell) instead of GRU.
