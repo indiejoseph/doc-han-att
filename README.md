@@ -5,6 +5,10 @@ This is [HAN](http://www.aclweb.org/anthology/N16-1174) version of sentiment cla
 
 ### Dataset
 Downloaded from internet but i forget where is it ;p, the original dataset is in Simplified Chinese, i used opencc translated it into Traditional Chinese.
+After 100 epochs, the valid accuracy achieved 96.31%
 
 ### Requirement
 Tensorflow r1.1+
+
+### Attention Heatmap
+![attention heatmap](/attention.png)
